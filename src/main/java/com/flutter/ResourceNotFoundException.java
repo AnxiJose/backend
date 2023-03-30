@@ -1,4 +1,4 @@
-package com.flutter.backend;
+package com.flutter;
 
 public class ResourceNotFoundException extends RuntimeException {
     public ResourceNotFoundException(String string) {

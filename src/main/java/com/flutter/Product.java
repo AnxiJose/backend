@@ -1,4 +1,4 @@
-package com.flutter.backend;
+package com.flutter;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

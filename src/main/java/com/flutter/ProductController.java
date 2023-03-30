@@ -1,4 +1,4 @@
-package com.flutter.backend;
+package com.flutter;
 
 import java.util.List;
 

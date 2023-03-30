@@ -1,4 +1,4 @@
-package com.flutter.backend;
+package com.flutter;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
